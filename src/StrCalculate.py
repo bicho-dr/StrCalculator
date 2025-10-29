@@ -1,2 +1,3 @@
 def StrCalculate():
-    pass
+
+    return 0
