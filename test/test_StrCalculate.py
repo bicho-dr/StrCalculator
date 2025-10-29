@@ -3,5 +3,5 @@ from src.StrCalculate import StrCalculate
 
 
 
-def test_return_one():
-    assert StrCalculate(1) == 1
+def test_two_number_return_number_one():
+    assert StrCalculate(1,2) == 1
