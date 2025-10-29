@@ -1,3 +1,3 @@
 def StrCalculate(nubmers):
-  if not nubmers :
-    return 0
+  if nubmers == 1 :
+    return 1
