@@ -1,4 +1,7 @@
 
 
 def test_function():
-   StrCalculate
+   StrCalculate()
+
+def StrCalculate():
+    pass
